@@ -15,5 +15,3 @@ Skills: HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuruddin-bin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuruddin-bin&show_icons=true)  
-

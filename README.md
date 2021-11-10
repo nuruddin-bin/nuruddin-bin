@@ -8,7 +8,7 @@ My design is simple & fresh. My coding is W3C validated, fresh, SEO optimized an
 
 Skills: HTML / CSS
 
-- 🌱 I’m currently learning Web Design Front-end Web Development 
+- 🌱 I’m currently learning Front-end Web Development 
 
 
 

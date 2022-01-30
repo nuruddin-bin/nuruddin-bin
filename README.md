@@ -1,4 +1,4 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/1199665629139222528/1636523578/600x200)
+![focus](https://user-images.githubusercontent.com/93543604/151684972-57e46391-719a-429f-b164-7dfee80606cf.png)
 
 ### Hi there 👋, I'm Nuruddin
 #### Front-end Web Developer
